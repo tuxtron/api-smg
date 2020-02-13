@@ -1,0 +1,11 @@
+osgi:install -s mvn:com.doctusoft/json-schema-java7/1.4.1.1
+osgi:install -s mvn:com.google.guava/guava/19.0
+osgi:install -s mvn:commons-validator/commons-validator/1.5.1
+osgi:install -s mvn:commons-digester/commons-digester/1.8.1
+osgi:install -s mvn:commons-beanutils/commons-beanutils/1.9.4
+osgi:install -s mvn:org.json/json/20160810
+osgi:install -s mvn:org.threeten/threetenbp/1.3.3
+osgi:install -s mvn:org.codehaus.jackson/jackson-jaxrs/1.9.0
+osgi:install -s mvn:org.codehaus.jackson/jackson-mapper-asl/1.9.0
+osgi:install -s mvn:com.google.code.gson/gson/2.2.4
+osgi:install -s mvn:com.googlecode.json-simple/json-simple/1.1.1 
